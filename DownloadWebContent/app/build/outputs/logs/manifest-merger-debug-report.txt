@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\b06699493d9ad49ed9b49a96e08cc5e5\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5d3a1424ab96cee99d2a2c47a645fec6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\e2f3da3433ae90610c8e0b3cb97090f2\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\3222779ad6026afbaa17a9af1b6e8f2a\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\6c7388461f0f1555679e16aedebc6a02\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\bdded4e5bba2e958542698ed4a330cb3\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\9d70a34cd7dbffeae2903f8de9384e50\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\5bfb9cb2716eea28763083676f607538\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\b3bf946e65b46bc7f81293de88a6926a\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\14f37dd47ac7a0cb7f53685afa1d5cb4\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\fcb0cfceb4d11a4de5694fc4d53ad854\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\70d61d49f3f339225b118474c033e6f5\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\318c3617fd9e5198c477f0dd1a174358\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\2dafade6453c666f97e6acc0b0c2e7cd\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\00b1a3e95ce8d4a3bbbc265958af4169\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\32d3a9709b65cc8bc2e6acb41ad6cf53\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\e6b44a58781221db0732bd184f3c4036\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\a8c750c22780e8ef25c977e5c48a5547\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\546454a07c829453f9202b81e447e236\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\c78ea999d53e0989428cc6c379fd76ff\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\77a7d4c3bd48d9a803901962395dfe8a\AndroidManifest.xml:17:1-23:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7c978ff8dd29c1f215e4c17c113f146d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b36ed18341576cd5efc591227f97aed3\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\de82be8d39e2449a5d30291b560ee9ab\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5163ee3f91c321b8705f6b835cd1607c\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:7:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5d3a1424ab96cee99d2a2c47a645fec6\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5d3a1424ab96cee99d2a2c47a645fec6\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:13:9-40
+activity#de.caroliwo.downloadwebcontent.MainActivity
+ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml
+INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\b06699493d9ad49ed9b49a96e08cc5e5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-alpha1.aar\b06699493d9ad49ed9b49a96e08cc5e5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5d3a1424ab96cee99d2a2c47a645fec6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\5d3a1424ab96cee99d2a2c47a645fec6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\e2f3da3433ae90610c8e0b3cb97090f2\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-alpha1.aar\e2f3da3433ae90610c8e0b3cb97090f2\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\3222779ad6026afbaa17a9af1b6e8f2a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-alpha1.aar\3222779ad6026afbaa17a9af1b6e8f2a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\6c7388461f0f1555679e16aedebc6a02\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-alpha1.aar\6c7388461f0f1555679e16aedebc6a02\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\bdded4e5bba2e958542698ed4a330cb3\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-alpha1.aar\bdded4e5bba2e958542698ed4a330cb3\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\9d70a34cd7dbffeae2903f8de9384e50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-alpha1.aar\9d70a34cd7dbffeae2903f8de9384e50\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\5bfb9cb2716eea28763083676f607538\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-alpha1.aar\5bfb9cb2716eea28763083676f607538\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\b3bf946e65b46bc7f81293de88a6926a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-alpha1.aar\b3bf946e65b46bc7f81293de88a6926a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\14f37dd47ac7a0cb7f53685afa1d5cb4\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-alpha1.aar\14f37dd47ac7a0cb7f53685afa1d5cb4\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\fcb0cfceb4d11a4de5694fc4d53ad854\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-alpha1.aar\fcb0cfceb4d11a4de5694fc4d53ad854\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\70d61d49f3f339225b118474c033e6f5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-alpha1.aar\70d61d49f3f339225b118474c033e6f5\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\318c3617fd9e5198c477f0dd1a174358\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-alpha1.aar\318c3617fd9e5198c477f0dd1a174358\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\2dafade6453c666f97e6acc0b0c2e7cd\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-alpha1.aar\2dafade6453c666f97e6acc0b0c2e7cd\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\00b1a3e95ce8d4a3bbbc265958af4169\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-alpha1.aar\00b1a3e95ce8d4a3bbbc265958af4169\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\32d3a9709b65cc8bc2e6acb41ad6cf53\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-alpha1.aar\32d3a9709b65cc8bc2e6acb41ad6cf53\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\e6b44a58781221db0732bd184f3c4036\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-alpha1.aar\e6b44a58781221db0732bd184f3c4036\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\a8c750c22780e8ef25c977e5c48a5547\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-alpha1.aar\a8c750c22780e8ef25c977e5c48a5547\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\546454a07c829453f9202b81e447e236\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:print:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\print-28.0.0-alpha1.aar\546454a07c829453f9202b81e447e236\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\c78ea999d53e0989428cc6c379fd76ff\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-alpha1.aar\c78ea999d53e0989428cc6c379fd76ff\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\77a7d4c3bd48d9a803901962395dfe8a\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha1] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-alpha1.aar\77a7d4c3bd48d9a803901962395dfe8a\AndroidManifest.xml:21:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7c978ff8dd29c1f215e4c17c113f146d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7c978ff8dd29c1f215e4c17c113f146d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b36ed18341576cd5efc591227f97aed3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b36ed18341576cd5efc591227f97aed3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\de82be8d39e2449a5d30291b560ee9ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\de82be8d39e2449a5d30291b560ee9ab\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5163ee3f91c321b8705f6b835cd1607c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Caro\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\5163ee3f91c321b8705f6b835cd1607c\AndroidManifest.xml:20:5-44
+INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml
+INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\Caro\AndroidStudioProjects\DownloadWebContent\app\src\main\AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Tue Nov 28 13:00:58 GMT 2017
+base.0=/Users/robertpercival/Downloads/Connect3Game/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
